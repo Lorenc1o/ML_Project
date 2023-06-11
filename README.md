@@ -16,7 +16,7 @@ We had to choose a dataset and a task to perform on it. We chose the [adult data
 The project is structured as follows:
 - `data/`: contains the dataset and the preprocessed data
 - `source/`: contains the notebooks used for the project
-- `report/`: contains the report of the project, with explanations, results and conclusions
+- `report/`: contains the report of the project, with explanations, results and conclusions. It also contains the project proposal.
 
 ## How to run the code
 
